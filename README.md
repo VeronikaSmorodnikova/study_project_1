@@ -21,8 +21,7 @@ Dating app data analyse (EDA, A/B testing, statistics)
 
 **users_*.csv – информация о пользователях:**  
 
-<ml> 
-<ul> uid – идентификатор пользователя </li> 
+uid – идентификатор пользователя
 age – возраст  
 attraction_coeff – коэффициент привлекательности (от 0 до 1000)  
 coins – число монеток (внутренняя валюта)  
